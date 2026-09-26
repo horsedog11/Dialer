@@ -2,9 +2,11 @@
 
 **Purpose:** Scope not documented in this repository.
 
-**Current documentation:** This public repository is empty; do not assume it is the private Tom dialer project.
+**Current documentation:** Only the documentation scaffold exists; scope and implementation are not recorded.
 
 ## Read first
+
+- [Repository README](../../README.md)
 
 The scope and implementation details have not yet been documented.
 
