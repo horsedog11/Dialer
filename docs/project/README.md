@@ -1,14 +1,14 @@
 # Project details
 
-The core dialer scope and implementation have not yet been documented in this repository. Proposed add-on work is recorded below; design notes are not deployment evidence.
+**Purpose:** Scope not documented in this repository.
+
+**Current documentation:** Only the documentation scaffold exists; scope and implementation are not recorded.
 
 ## Read first
 
 - [Repository README](../../README.md)
 
-## Add-on sub-projects
-
-- [Customer Actions](customer-actions/README.md) — recorded 2026-10-01. KYC-based actions, source-aware right-click actions, Invoice Ninja invoice-to-osTicket workflow, optional form filling, responsibilities, acceptance criteria and open implementation choices.
+The scope and implementation details have not yet been documented.
 
 ## Recording decisions
 
